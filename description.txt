@@ -3,5 +3,7 @@ This is a list of stuff that can be done
 2. Mobile app development
 3. Web development
 4. 3D gaming
+5. Animation
+6. Computer maintenance
 
 Alaa alaaa alaa
